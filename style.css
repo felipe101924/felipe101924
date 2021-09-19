@@ -1,0 +1,16 @@
+
+img{
+    border-radius: 50%;
+    font-size: 22px;
+    font-family: sans-serif;
+    float:left;
+}
+
+
+
+body{
+    color: rgb(0, 0, 0);
+    background: rgb(97, 97, 97);
+    font-size: 22px;
+    font-family: sans-serif;
+}
