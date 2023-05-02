@@ -32,12 +32,3 @@ Atravez do meu e-mail:felipe.193491@edu.unipar.br
   <img align="center" alt="felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="felipe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/681304201359523870/897957184527274024/fca58d5c001bb183b360ed9659402dec.gif">
 </div>
-  
- 
-<div> 
-  
-  
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
