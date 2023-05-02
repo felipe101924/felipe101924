@@ -3,7 +3,7 @@
 - 🌱 Estou aprendendo  Html , Css, Js e Figma React native.
 - 💞️ Procuro colaborar com Html,Css e Figma.
 - 📫 Como me encontrar: 
-Atravez do meu e-mail:felipe.193491@edu.unipar.br 
+Atravez do meu e-mail:ferreira.felipe027@gmail.com
  
 <div> 
   <a href="https://www.instagram.com/feliptrx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
